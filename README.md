@@ -1,2 +1,0 @@
-# ADAHS
-HR domain
